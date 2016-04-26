@@ -1,0 +1,36 @@
+{
+    "TownData": [
+        {
+            "TownName": "Town1",
+            "ProductDic": {
+                "A": 40,
+                "B": 130
+            },
+            "ConsumeDic": {
+                "A": 120,
+                "B": 30
+            },
+            "ContainerDic": {
+                "A": 1000,
+                "B": 1000,
+                "money": 500
+            }
+        },
+        {
+            "TownName": "Town2",
+            "ProductDic": {
+                "A": 160,
+                "B": 70
+            },
+            "ConsumeDic": {
+                "A": 80,
+                "B": 170
+            },
+            "ContainerDic": {
+                "A": 1000,
+                "B": 1000,
+                "money": 500
+            }
+        }
+    ]
+}
